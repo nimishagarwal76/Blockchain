@@ -7,7 +7,7 @@ A basic blockchain implementation .
 
  - NodeJs
  - Express
- - Javscript
+ - Javascript
 
  ## Features
  
